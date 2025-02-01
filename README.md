@@ -16,7 +16,6 @@ An Audiobook Management System built using ASP.NET Core. This system allows user
 - **Backend**: ASP.NET Core
 - **Frontend**: HTML, CSS, JavaScript (Bootstrap for styling)
 - **Database**: SQL Server
-- **Audio**: Integration with HTML5 audio player for playback
 
 ## Getting Started
 
